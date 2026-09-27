@@ -7,9 +7,11 @@ concept overview and explicit publication status. Review licensing separately.
 
 ## 2. Whitepaper and principles
 
-Locate the authoritative whitepaper and twelve DCA principles. Confirm source
-rights, produce a reviewed Markdown edition and reconcile the Semantic Mesh
-principles. Done when the author approves content, references and license scope.
+The author has identified Whitepaper v0.3 (2026-08-25) as the working source.
+Its seven Semantic Mesh principles in chapter 10 are reproduced in `docs/principles/`.
+These are distinct from the twelve DCA principles; adopting or reconciling DCA
+principles is not a publication prerequisite. Review the complete whitepaper for
+publication and confirm references and license scope before a formal release.
 
 ## 3. Website
 

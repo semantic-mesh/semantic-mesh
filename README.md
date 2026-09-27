@@ -14,7 +14,7 @@ released contract specification and conformance implementation do not yet exist.
 ## Start here
 
 - [Concept overview](docs/overview.md)
-- [Proposed principles](docs/principles/README.md)
+- [Semantic Mesh principles](docs/principles/README.md)
 - [Whitepaper publication status](docs/whitepaper/README.md)
 - [Roadmap and launch criteria](ROADMAP.md)
 - [Contributing](CONTRIBUTING.md) and [governance](GOVERNANCE.md)

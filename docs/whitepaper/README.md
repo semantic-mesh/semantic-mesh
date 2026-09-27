@@ -1,16 +1,24 @@
 # Whitepaper publication
 
-The founding discussion refers to an existing, unpublished whitepaper. Its final
-source has not yet been imported or verified in this repository. The concept
-overview is a separate working draft and must not be presented as that whitepaper.
+The author has supplied *Semantic Mesh*, version 0.3 dated 2026-08-25, by Azmir
+Abdi. Its source status is “Konzeptentwurf für semanticmesh.io”. This is the
+working source for content alignment, not a claim of a final released edition.
 
-Publication steps:
+The seven principles from chapter 10 are reproduced verbatim in
+[Semantic Mesh principles](../principles/README.md). They are independent Semantic
+Mesh principles; the twelve DCA principles have a different perspective and are
+not to be adopted one-to-one or required for publication.
 
-- Identify the authoritative source and revision with the author.
-- Review publication rights, attribution and any internal or customer context.
-- Convert the approved source into reviewable Markdown while preserving meaning.
-- Reconcile principles, terminology and references; clearly mark draft examples.
+The complete whitepaper has not yet been imported into this repository. The
+concept overview remains an editorial summary, not the whitepaper itself.
+
+Remaining publication steps:
+
+- Review the complete source for publication rights, attribution and context.
+- Import the reviewed Markdown source while preserving the author's meaning.
+- Align summaries and terminology with the whitepaper; check references and mark
+  illustrative contract examples as non-normative.
 - Review the diff, adopt the applicable license and prepare web/PDF outputs.
 
-Keep internal source files outside the public repository. Record only publication-
-appropriate provenance, author information and revision history here.
+The supplied OneDrive source remains unchanged. Keep internal source paths and
+unrelated internal documents outside the public repository.
