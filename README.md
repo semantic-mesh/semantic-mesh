@@ -41,5 +41,5 @@ Open an [issue](https://github.com/semantic-mesh/semantic-mesh/issues) with a us
 case, counterexample or concrete improvement. To propose an edit, fork this
 repository, create a branch in your fork and open a pull request against `main`.
 Repository write access is not needed to propose a contribution.
-English is the initial shared documentation language; German feedback is welcome.
+English is the language for all repository content and project contributions.
 Check the licensing status before submitting material for redistribution.

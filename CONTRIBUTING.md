@@ -1,5 +1,11 @@
 # Contributing
 
+## Language
+
+Use English for all repository content, documentation, examples, code comments,
+commit messages, issues and pull requests. Translate source material from other
+languages faithfully and identify it as a translation.
+
 Start with a concrete problem, use case or counterexample. Small documentation
 fixes can go directly to a pull request. For changes to core concepts, governance
 or the future contract format, discuss an issue and use the [RFC process](rfcs/README.md).

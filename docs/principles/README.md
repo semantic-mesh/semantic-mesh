@@ -1,51 +1,73 @@
-# Sieben Prinzipien des Semantic Mesh
+# Seven principles of Semantic Mesh
 
-Quelle: Azmir Abdi, *Semantic Mesh*, Whitepaper v0.3 vom 25.08.2026,
-Kapitel 10. Status der Quelle: Konzeptentwurf für semanticmesh.io.
-Die folgenden Prinzipien sind wortgetreu aus diesem Kapitel übernommen.
+Source: Azmir Abdi, *Semantic Mesh*, Whitepaper v0.3, dated 2026-08-25,
+chapter 10. Source status: concept draft for semanticmesh.io.
+The following is an English translation of the seven principles in that chapter,
+preserving their order and meaning.
 
-Diese eigenständigen Semantic-Mesh-Prinzipien sind für das Konzept maßgeblich.
-Die zwölf DCA-Principles haben eine andere Perspektive und werden hier nicht
-1:1 übernommen oder als Voraussetzung für die Veröffentlichung behandelt.
+These distinct Semantic Mesh principles guide the concept. The twelve DCA
+principles take a different perspective and are neither adopted one-to-one nor
+treated as a prerequisite for publication.
 
-## Prinzip 1: Fachliche Verantwortung liegt in der Domäne
+## Principle 1: Business responsibility belongs to the domain
 
-Die Domäne, die eine Leistung fachlich versteht und verändert, verantwortet auch deren Contract. Zentrale Teams können Standards, Plattform und Beratung bereitstellen, aber nicht dauerhaft die Bedeutung fremder Fachlichkeit pflegen.
+The domain that understands and changes a business service is also responsible
+for its contract. Central teams can provide standards, a platform and guidance,
+but cannot sustainably maintain the meaning of another domain's business concepts.
 
-Ownership umfasst dabei mehr als einen Namen im Katalog. Die Domäne muss erreichbar sein, Änderungen steuern, Qualitätszusagen vertreten und Rückmeldungen ihrer Konsumenten bearbeiten.
+Ownership means more than a name in a catalog. The domain must be reachable,
+manage changes, stand behind its quality commitments and respond to consumer
+feedback.
 
-## Prinzip 2: Was eine Domäne anbietet, wird vertraglich veröffentlicht
+## Principle 2: What a domain offers is published through contracts
 
-Eine Domäne sollte keine nach außen genutzte Leistung nur durch implizites Wissen oder zufällige Implementierungsdetails bereitstellen. APIs, Data Products, fachliche Ereignisse, Prozessübergaben und KI-Agenten erhalten eigenständige Contracts.
+A domain should not expose services for external use solely through implicit
+knowledge or incidental implementation details. APIs, data products, business
+events, process handoffs and AI agents receive their own contracts.
 
-Nicht alles Interne muss veröffentlicht werden. Entscheidend ist die Grenze: Sobald andere sich auf eine Leistung verlassen sollen, braucht sie einen Contract.
+Not everything internal needs to be published. The boundary is what matters:
+once others are expected to rely on a service, it needs a contract.
 
-## Prinzip 3: Der Domain Contract ist modular und erweiterbar
+## Principle 3: The Domain Contract is modular and extensible
 
-Der Domain Contract ist kein großes Zentraldokument. Er verbindet selbstständige Subcontracts und kann mit dem Unternehmen wachsen. Ein neuer Vertragstyp wird ergänzt, wenn ein reales Problem dies rechtfertigt.
+The Domain Contract is not a large central document. It connects independent
+subcontracts and can grow with the enterprise. A new contract type is added when
+a real problem justifies it.
 
-Dadurch bleibt das Konzept offen für spätere Anforderungen, ohne den Einstieg mit einem vollständigen Unternehmensmetamodell zu blockieren.
+This keeps the concept open to future requirements without making a complete
+enterprise metamodel a barrier to getting started.
 
-## Prinzip 4: Bedeutung ist lokal; Interoperabilität entsteht an den Grenzen
+## Principle 4: Meaning is local; interoperability emerges at the boundaries
 
-Jede Domäne darf ihre eigene Ubiquitous Language besitzen. Semantic Mesh erzwingt kein globales kanonisches Modell. Wo Domänen zusammenarbeiten, müssen Bedeutungsunterschiede jedoch sichtbar und übersetzbar sein.
+Each domain may have its own ubiquitous language. Semantic Mesh does not impose
+a global canonical model. Where domains collaborate, however, differences in
+meaning must be visible and translatable.
 
-Diese Regel schützt gleichzeitig fachliche Präzision und unternehmensweite Zusammenarbeit.
+This rule protects both business precision and collaboration across the enterprise.
 
-## Prinzip 5: Contracts sind maschinenlesbar, versioniert und überprüfbar
+## Principle 5: Contracts are machine-readable, versioned and verifiable
 
-Ein Contract muss von Menschen verstanden werden können, aber er darf nicht nur aus Freitext bestehen. Identitäten, Beziehungen, Versionen, Qualitätsregeln und Lebenszyklus sollen von Werkzeugen verarbeitet werden können.
+People must be able to understand a contract, but it must not consist solely of
+free text. Tools should be able to process identities, relationships, versions,
+quality rules and lifecycle information.
 
-Je näher der Contract an Entwicklungs-, Test- und Betriebsprozesse rückt, desto geringer wird die Gefahr, dass Beschreibung und Realität auseinanderlaufen.
+The more closely a contract is integrated with development, testing and operations,
+the lower the risk that its description diverges from reality.
 
-## Prinzip 6: Gemeinsame Standards werden föderiert und möglichst automatisiert durchgesetzt
+## Principle 6: Shared standards are enforced through federated governance and automation wherever possible
 
-Unternehmensweite Regeln konzentrieren sich auf Interoperabilität, Sicherheit, Ownership und Änderbarkeit. Sie werden als Templates, Profile und automatisierte Prüfungen in die Plattform eingebaut.
+Enterprise-wide rules focus on interoperability, security, ownership and the
+ability to accommodate change. They are built into the platform as templates,
+profiles and automated checks.
 
-Manuelle Governance bleibt für echte fachliche Konflikte und hohe Risiken reserviert.
+Manual governance is reserved for substantive business conflicts and high risks.
 
-## Prinzip 7: Das Mesh wächst entlang messbaren Nutzens
+## Principle 7: The mesh grows through measurable value
 
-Semantic Mesh wird nicht durch ein mehrjähriges Gesamtmodell eingeführt. Es beginnt mit einer konkreten Domäne, einem Value Stream, einem Data Product, einer Integrationslandschaft oder einem KI-Agenten, bei dem fehlende Bedeutung heute Kosten oder Risiken verursacht.
+Semantic Mesh is not introduced through a comprehensive model developed over
+several years. It starts with a specific domain, value stream, data product,
+integration landscape or AI agent where missing meaning creates costs or risks
+today.
 
-Weitere Contracts und semantische Tiefe kommen hinzu, wenn sie für Konsumenten und Domänen einen erkennbaren Nutzen erzeugen.
+Additional contracts and semantic depth are added when they generate tangible
+value for consumers and domains.

@@ -8,10 +8,10 @@ concept overview and explicit publication status. Review licensing separately.
 ## 2. Whitepaper and principles
 
 The author has identified Whitepaper v0.3 (2026-08-25) as the working source.
-Its seven Semantic Mesh principles in chapter 10 are reproduced in `docs/principles/`.
+Its seven Semantic Mesh principles in chapter 10 are translated into English in `docs/principles/`.
 These are distinct from the twelve DCA principles; adopting or reconciling DCA
 principles is not a publication prerequisite. Review the complete whitepaper for
-publication and confirm references and license scope before a formal release.
+publication in English and confirm references and license scope before a formal release.
 
 ## 3. Website
 
